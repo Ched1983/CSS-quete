@@ -1,0 +1,55 @@
+.ul li {
+    display: inline-block;
+    direction: ltr;
+    margin: 0px 80px 0px 10px;
+}   
+.ul {
+    width: 100%;
+    background-color: rgb(80, 77, 77);
+    color: honeydew; 
+    padding: 0px;
+    margin: 0px;
+}
+.li1 {
+    font-size: 25px;
+}
+.carousel {
+    height: 400px;
+    background-color: lightgrey;
+
+}   
+.titreh2 {
+    text-align: center;
+    padding: 30px;
+}
+.items {
+    width: 33%;
+    display: inline-block;
+    background-color: lightgrey;
+    height: 500px;
+    margin-bottom: 130px;
+  }
+  .hline-bottom {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #000; 
+}
+form input {
+    display: block;
+    width: 600px;
+    height: 30px;
+    margin-left: 30%;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+h2 {
+    color: rgb(87, 85, 85);
+    font-family: monospace;
+}
+textarea {
+    display: block;
+    width: 600px;
+    height: 70px;
+    margin-left: 30%;
+    margin-top: 10px;
+    border: 2px solid black;
+}
